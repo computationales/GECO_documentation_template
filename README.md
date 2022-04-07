@@ -1,10 +1,19 @@
 # bgtemplate <a href=''><img src='https://bluegreenlabs.org/img/logo.png' align="right" height="134.5" /></a>
 
-cestemplate provides a custom pkgdown template for CES
+CES_template provides a custom pkgdown template for CES
 packages. Please don’t use it for your own package. This theme was
-inspired by inspired by BlueGreen Labs' package theme.
+inspired by inspired by [tidytemplate](https://github.com/tidyverse/tidytemplate/),
+[rotemplate](https://github.com/ropensci-org/rotemplate/) and [bgtemplate](https://github.com/khufkens/bgtemplate)
 
-## How to use `cestemplate`
+## How to use `CES_template`
+
+Install the template as an R package
+``` r
+devtools::install_github("computationales/CES_template")
+```
+
+Set the package template as the override template to use when rendering
+a package documentation using `pkgdown`
 
 ``` r
 template <- list(package = "cestemplate")
