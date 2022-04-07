@@ -1,6 +1,3 @@
-
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
 # bgtemplate <a href=''><img src='https://bluegreenlabs.org/img/logo.png' align="right" height="134.5" /></a>
 
 cestemplate provides a custom pkgdown template for CES
