@@ -1,4 +1,4 @@
-# bgtemplate <a href=''><img src='https://bluegreenlabs.org/img/logo.png' align="right" height="134.5" /></a>
+# bgtemplate <a href=''><img src='https://raw.githubusercontent.com/computationales/CES_template/main/ces_logo.png' align="right" height="134.5" /></a>
 
 CES_template provides a custom pkgdown template for CES
 packages. Please don’t use it for your own package. This theme was
