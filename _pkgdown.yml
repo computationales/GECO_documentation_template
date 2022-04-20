@@ -1,16 +1,10 @@
 template:
-  package: bgtemplate
+  package: cestemplate
 
 destination: docs
 
 toc:
   depth: 3
-
-authors:
-  Koen Hufkens:
-    href: https://bluegreenlabs.org
-  BlueGreen Labs:
-    href: https://bluegreenlabs.org
 
 navbar:
   structure:

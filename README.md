@@ -27,7 +27,7 @@ Alternatively, set the template in \_pkgdown.yml.
 
 ``` yaml
 template:
-  package: bgtemplate
+  package: cestemplate
 ```
 
 ### Mathjax
