@@ -9,14 +9,14 @@ inspired by inspired by [tidytemplate](https://github.com/tidyverse/tidytemplate
 
 Install the template as an R package
 ``` r
-devtools::install_github("computationales/CES_template")
+devtools::install_github("computationales/GECO_template")
 ```
 
 Set the package template as the override template to use when rendering
 a package documentation using `pkgdown`
 
 ``` r
-template <- list(package = "cestemplate")
+template <- list(package = "gecotemplate")
 pkgdown::build_site(devel = FALSE, override = list(template = template))
 ```
 
@@ -27,7 +27,7 @@ Alternatively, set the template in \_pkgdown.yml.
 
 ``` yaml
 template:
-  package: cestemplate
+  package: gecotemplate
 ```
 
 ### Mathjax
