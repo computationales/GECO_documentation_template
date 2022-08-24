@@ -1,4 +1,4 @@
-Package: gecostemplate
+Package: gecotemplate
 Title: pkgdown Template for CES Packages
 Version: 0.1
 Authors@R: c(person(
