@@ -5,7 +5,7 @@ packages. Please don’t use it for your own package. This theme was
 inspired by inspired by [tidytemplate](https://github.com/tidyverse/tidytemplate/),
 [rotemplate](https://github.com/ropensci-org/rotemplate/) and [bgtemplate](https://github.com/khufkens/bgtemplate)
 
-## How to use `CES_template`
+## How to use `GECO_template`
 
 Install the template as an R package
 ``` r
