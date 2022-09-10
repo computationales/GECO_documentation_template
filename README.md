@@ -1,6 +1,6 @@
-# bgtemplate <a href=''><img src='https://raw.githubusercontent.com/computationales/CES_template/main/ces_logo.png' align="right" height="134.5" /></a>
+# bgtemplate <a href=''><img src='https://raw.githubusercontent.com/computationales/GECO_template/main/geco_logo.png' align="right" height="134.5" /></a>
 
-CES_template provides a custom pkgdown template for CES
+GECO_template provides a custom pkgdown template for GECO
 packages. Please don’t use it for your own package. This theme was
 inspired by inspired by [tidytemplate](https://github.com/tidyverse/tidytemplate/),
 [rotemplate](https://github.com/ropensci-org/rotemplate/) and [bgtemplate](https://github.com/khufkens/bgtemplate)
