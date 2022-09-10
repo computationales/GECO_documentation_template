@@ -33,7 +33,7 @@ template:
 ### Mathjax
 
 if you want to use Mathjax you’ll need to specify it in the `pkgdown`
-config file like so:
+config file like so: 
 
 ``` yaml
 template:
