@@ -1,4 +1,4 @@
-# bgtemplate <a href=''><img src='https://raw.githubusercontent.com/computationales/GECO_template/main/geco_logo.png' align="right" height="134.5" /></a>
+# bgtemplate <a href=''><img src='https://raw.githubusercontent.com/computationales/GECO_template/main/geco_logo_small.png' align="right" height="134" /></a>
 
 GECO_template provides a custom pkgdown template for GECO
 packages. Please don’t use it for your own package. This theme was

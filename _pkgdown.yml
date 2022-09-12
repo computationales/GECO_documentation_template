@@ -1,5 +1,5 @@
 template:
-  package: cestemplate
+  package: gecotemplate
 
 destination: docs
 
@@ -13,4 +13,4 @@ navbar:
   components:
     twitter:
       icon: "fab fa-twitter fa-lg"
-      href: https://twitter.com/bluegreen_labs
+      href: https://twitter.com/computationales
