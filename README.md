@@ -1,4 +1,4 @@
-# GECO pkgdown template <a href=''><img src='https://raw.githubusercontent.com/computationales/GECO_template/main/geco_logo_small.png' align="right" height="134" /></a>
+# GECO pkgdown template <a href=''><img src='https://raw.githubusercontent.com/geco-bern/GECO_template/main/geco_logo_small.png' align="right" height="134" /></a>
 
 GECO_template provides a custom pkgdown template for GECO
 packages. Please don’t use it for your own package. This theme was
@@ -9,7 +9,7 @@ inspired by inspired by [tidytemplate](https://github.com/tidyverse/tidytemplate
 
 Install the template as an R package
 ``` r
-devtools::install_github("computationales/GECO_template")
+devtools::install_github("geco-bern/GECO_template")
 ```
 
 Set the package template as the override template to use when rendering
