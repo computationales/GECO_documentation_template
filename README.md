@@ -5,11 +5,16 @@ packages. Please don’t use it for your own package. This theme was
 inspired by inspired by [tidytemplate](https://github.com/tidyverse/tidytemplate/),
 [rotemplate](https://github.com/ropensci-org/rotemplate/) and [bgtemplate](https://github.com/khufkens/bgtemplate)
 
+```diff
+- NOTE: Do not use this package as a package template, this is for documentation only!
+- Use the proper R project template!
+```
+
 ## How to use `GECO_template`
 
 Install the template as an R package
 ``` r
-devtools::install_github("geco-bern/GECO_template")
+devtools::install_github("geco-bern/GECO_documentation_template")
 ```
 
 Set the package template as the override template to use when rendering
