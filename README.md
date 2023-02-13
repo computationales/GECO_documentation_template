@@ -14,7 +14,7 @@ inspired by inspired by [tidytemplate](https://github.com/tidyverse/tidytemplate
 
 Install the template as an R package
 ``` r
-devtools::install_github("computationales/GECO_template")
+devtools::install_github("computationales/GECO_documentation_template")
 ```
 
 Set the package template as the override template to use when rendering
