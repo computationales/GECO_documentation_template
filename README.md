@@ -1,4 +1,4 @@
-# GECO pkgdown template <a href=''><img src='https://raw.githubusercontent.com/geco-bern/GECO_template/main/geco_logo_small.png' align="right" height="134" /></a>
+# GECO pkgdown template <a href=''><img src='https://raw.githubusercontent.com/geco-bern/GECO_documentation_template/main/geco_logo_small.png' align="right" height="134" /></a>
 
 GECO_template provides a custom pkgdown template for GECO
 packages. Please don’t use it for your own package. This theme was
